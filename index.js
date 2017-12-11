@@ -15,3 +15,7 @@ function changeLeastFavoriteCustomer(){
 function attemptTwoFavoriteCustomers(){
   customerName = "bob";
 }
+
+
+function attemptTwoFavoriteCustomers() {
+}
